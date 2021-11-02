@@ -29,3 +29,7 @@ arrow_get.py 包含两种方式，一种先旋转后截取，一种先截取再�
 对create_label_files.py文件的get_dile_list分类进行更改并运行；
 对train.py文件里的num_class进行修改并运行
 predict.py文件也需要进行修改，可根据自己要求进行改写
+
+### 权重
+链接：https://pan.baidu.com/s/1rMMW0hTzgvK6s-O6xUz60w 
+提取码：mab6
